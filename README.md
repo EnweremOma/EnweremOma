@@ -1,5 +1,6 @@
  Hi there 👋 I'm ENWEREM Iruoma (oma for short)
- nice meeting your lovely face 😉
+ 
+ Nice meeting your lovely face 😉
  
  I am a full stack developer (FE-Heavy) excited about building projects that solve real life problems. I am known for my great attention to details and ability to recreate figma desigs to the later.
 
