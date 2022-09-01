@@ -1,16 +1,18 @@
-### Hi there 👋
+ Hi there 👋 I'm ENWEREM Iruoma (oma for short)
+ nice meeting your lovely face 😉
+ 
+ I am a full stack developer (FE-Heavy) excited about building projects that solve real life problems. I am known for my great attention to details and ability to recreate figma desigs to the later.
 
-<!--
-**EnweremOma/EnweremOma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on a .NET and JavaScript projects.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning User Interface and User Experience Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on exciting projects that solve real life problems.
+
+📫 Reach me on linkedIn https://www.linkedin.com/in/favour-enwerem-a990851a9
+
+😄 Pronouns: her/she
+
+⚡ Fun fact: I'm the life of a private really small party😂
+
+😎 my stack: .NET, JavaScript, TypeScript, React, Tailwindcss, Bootstrap ....
