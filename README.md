@@ -1,4 +1,4 @@
- Hi there 👋 I'm ENWEREM Iruoma (oma for short)
+ Hi there 👋 I'm ENWEREM Iruoma (Oma for short)
  
  Nice meeting your lovely face 😉
  
@@ -11,6 +11,7 @@
 👯 I’m looking to collaborate on exciting projects that solve real life problems.
 
 📫 Reach me on linkedIn https://www.linkedin.com/in/favour-enwerem-a990851a9
+or via email: favourenwerem9@gmail.com
 
 😄 Pronouns: her/she
 
