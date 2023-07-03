@@ -19,4 +19,4 @@ or via email: favourenwerem9@gmail.com
 
 😎 my stack: JavaScript, TypeScript, React, Tailwindcss, ASP.NET, Bootstrap...
 
-Here's a link to my Portfolio in progress haha! https://enwerem-iruoma.netlify.app/
+Here's a link to my Portfolio in progress haha! (I'll let you know when you can visit it)  https://enwerem-iruoma.netlify.app/
