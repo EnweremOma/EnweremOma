@@ -2,9 +2,9 @@
  
  Nice meeting your lovely face 😉
  
- I am a full-stack developer (FE-Heavy) excited about building projects that solve real-life problems. I am known for my excellent attention to detail and ability to recreate figma designs to the letter.
+ I am a full-stack developer excited about building projects that solve real-life problems. I am known for my excellent attention to detail and ability to recreate figma designs to the letter.
 
-🔭 I’m currently working on a React and TypeScript project.
+🔭 I’m currently working on a .net Core project.
 
 🌱 I’m currently learning User Interface and User Experience Design.
 
@@ -17,6 +17,6 @@ or via email: favourenwerem9@gmail.com
 
 ⚡ Fun fact: I'm the life of a private really small party😂
 
-😎 my stack: JavaScript, TypeScript, React, Tailwindcss, ASP.NET, Bootstrap...
+😎 my stack: JavaScript, TypeScript, React, Tailwindcss, Bootstrap, C#, .Net Core, ASP.NET, VB...
 
 Here's a link to my Portfolio in progress haha! (I'll let you know when you can visit it)  https://enwerem-iruoma.netlify.app/
